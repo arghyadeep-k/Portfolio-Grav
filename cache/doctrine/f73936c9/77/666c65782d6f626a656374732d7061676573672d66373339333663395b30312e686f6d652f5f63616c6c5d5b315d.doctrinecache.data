@@ -1,0 +1,9 @@
+1688195315
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:10:"home/_call";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:2:{s:8:"hidemenu";b:1;s:7:"buttons";a:1:{i:0;a:2:{s:4:"text";s:11:"Sign Up Now";s:3:"url";s:48:"http://www.dreamhost.com/r.cgi?287326|STYLESHOUT";}}}s:11:"frontmatter";s:107:"hidemenu: true
+buttons:
+    - text: Sign Up Now
+      url: http://www.dreamhost.com/r.cgi?287326|STYLESHOUT";s:8:"markdown";s:318:"## [Host This Template on Dreamhost.](http://www.dreamhost.com/r.cgi?287326|STYLESHOUT)</a>
+
+Looking for an awesome and reliable webhosting? Try <a href="http://www.dreamhost.com/r.cgi?287326|STYLESHOUT"><span>DreamHost</span></a>.
+Get <span>$50 off</span> when you sign up with the promocode <span>STYLESHOUT</span>.
+";}s:7:"storage";a:6:{s:3:"key";s:10:"home/_call";s:11:"storage_key";s:13:"01.home/_call";s:8:"template";s:4:"call";s:17:"storage_timestamp";i:1687388483;s:8:"markdown";a:1:{s:0:"";a:1:{s:4:"call";i:1687388483;}}s:8:"checksum";s:32:"fbde8c32cda6e9220d2aa4a73c757eca";}}

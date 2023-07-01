@@ -1,0 +1,9 @@
+version: '1.2'
+timestamp: 1688194697
+count: 1
+index:
+  arghya:
+    storage_key: arghya
+    storage_timestamp: 1688194697
+    key: arghya
+    email: arghyadeep@duck.com

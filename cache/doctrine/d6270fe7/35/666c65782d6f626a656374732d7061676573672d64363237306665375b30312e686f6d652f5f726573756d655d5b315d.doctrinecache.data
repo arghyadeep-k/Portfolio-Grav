@@ -1,0 +1,45 @@
+1688195313
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:12:"home/_resume";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:2:{s:5:"title";s:6:"Resume";s:8:"sections";a:3:{i:0;a:3:{s:5:"title";s:9:"Education";s:9:"css_class";s:9:"education";s:5:"items";a:2:{i:0;a:4:{s:5:"title";s:18:"University of Life";s:4:"info";s:24:"Master in Graphic Design";s:4:"date";s:10:"April 2007";s:11:"description";s:405:"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. Nullam dictum felis eu pede mollis pretium.";}i:1;a:4:{s:5:"title";s:24:"School of Cool Designers";s:4:"info";s:29:"B.A. Degree in Graphic Design";s:4:"date";s:10:"March 2003";s:11:"description";s:369:"This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non  mauris vitae erat";}}}i:1;a:3:{s:5:"title";s:4:"Work";s:9:"css_class";s:4:"work";s:5:"items";a:2:{i:0;a:4:{s:5:"title";s:21:"Awesome Design Studio";s:4:"info";s:18:"Senior UX Designer";s:4:"date";s:20:"March 2010 - Present";s:11:"description";s:405:"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. Nullam dictum felis eu pede mollis pretium.";}i:1;a:4:{s:5:"title";s:17:"Super Cool Studio";s:4:"info";s:11:"UX Designer";s:4:"date";s:26:"March 2007 - February 2010";s:11:"description";s:369:"This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non  mauris vitae erat";}}}i:2;a:3:{s:5:"title";s:6:"Skills";s:9:"css_class";s:5:"skill";s:5:"items";a:1:{i:0;a:5:{s:5:"title";N;s:4:"info";N;s:4:"date";N;s:11:"description";s:405:"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. Nullam dictum felis eu pede mollis pretium.";s:6:"skills";a:6:{i:0;a:2:{s:4:"name";s:9:"Photoshop";s:5:"level";i:60;}i:1;a:2:{s:4:"name";s:11:"Illustrator";s:5:"level";i:55;}i:2;a:2:{s:4:"name";s:9:"Wordpress";s:5:"level";i:50;}i:3;a:2:{s:4:"name";s:3:"CSS";s:5:"level";i:90;}i:4;a:2:{s:4:"name";s:5:"Html5";s:5:"level";i:80;}i:5;a:2:{s:4:"name";s:6:"Jquery";s:5:"level";i:50;}}}}}}}s:11:"frontmatter";s:3104:"title: Resume
+sections:
+    - title: Education
+      css_class: education
+      items:
+        - title: University of Life
+          info: Master in Graphic Design
+          date: April 2007
+          description:  Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. Nullam dictum felis eu pede mollis pretium.
+        - title: School of Cool Designers
+          info: B.A. Degree in Graphic Design
+          date: March 2003
+          description: This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non  mauris vitae erat
+    - title: Work
+      css_class: work
+      items:
+        - title: Awesome Design Studio
+          info: Senior UX Designer
+          date: March 2010 - Present
+          description:  Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. Nullam dictum felis eu pede mollis pretium.
+        - title: Super Cool Studio
+          info: UX Designer
+          date: March 2007 - February 2010
+          description:  This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non  mauris vitae erat  
+    - title: Skills
+      css_class: skill
+      items:
+        - title:
+          info:
+          date:
+          description:  Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. Nullam dictum felis eu pede mollis pretium.  
+          skills:
+            - name: Photoshop
+              level: 60
+            - name: Illustrator
+              level: 55
+            - name: Wordpress
+              level: 50
+            - name: CSS
+              level: 90
+            - name: Html5
+              level: 80
+            - name: Jquery
+              level: 50            ";s:8:"markdown";s:0:"";}s:7:"storage";a:6:{s:3:"key";s:12:"home/_resume";s:11:"storage_key";s:15:"01.home/_resume";s:8:"template";s:6:"resume";s:17:"storage_timestamp";i:1687388483;s:8:"markdown";a:1:{s:0:"";a:1:{s:6:"resume";i:1687388483;}}s:8:"checksum";s:32:"38d9bd73e347616d36211d196c105b0a";}}

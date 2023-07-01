@@ -1,0 +1,11 @@
+state: enabled
+email: arghyadeep@duck.com
+fullname: 'Arghyadeep Kundu'
+title: Administrator
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$4gVhypYgPl.zoJlFgabt0eal1nawL2yPkvN8FaI/6j/DeuEmIXW1W

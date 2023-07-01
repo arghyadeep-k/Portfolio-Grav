@@ -1,0 +1,18 @@
+1688195313
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:11:"home/_about";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:5:{s:5:"title";s:5:"About";s:6:"title2";s:15:"Contact Details";s:7:"address";a:2:{i:0;a:1:{s:4:"line";s:16:"Arghyadeep Kundu";}i:1;a:1:{s:4:"line";s:14:"(903)-505-2333";}}s:5:"email";a:1:{i:0;a:1:{s:7:"address";s:18:"mail@arghyadeep.in";}}s:7:"buttons";a:1:{i:0;a:3:{s:3:"url";s:1:"#";s:4:"icon";s:8:"download";s:4:"text";s:15:"Download Resume";}}}s:11:"frontmatter";s:296:"title: About
+title2: Contact Details
+address:
+    - line: Arghyadeep Kundu
+    # - line: 1600 Amphitheatre Parkway
+    # - line: Mountain View, CA 94043 US
+    - line: (903)-505-2333
+email:
+    - address: mail@arghyadeep.in
+buttons:
+    - url: "#"
+      icon: download
+      text: Download Resume";s:8:"markdown";s:236:"## About Me
+
+Developer turned DevOps Engineer.Developing CI/CD solutions for a finance company during the day. Fiddling with opensource software at night and during the weekends. Reading books 📖 when taking a break from the screen.
+
+";}s:7:"storage";a:6:{s:3:"key";s:11:"home/_about";s:11:"storage_key";s:14:"01.home/_about";s:8:"template";s:5:"about";s:17:"storage_timestamp";i:1688192589;s:8:"markdown";a:1:{s:0:"";a:1:{s:5:"about";i:1688192589;}}s:8:"checksum";s:32:"d49efc46d9e056af8a8ecd8ec8f84785";}}

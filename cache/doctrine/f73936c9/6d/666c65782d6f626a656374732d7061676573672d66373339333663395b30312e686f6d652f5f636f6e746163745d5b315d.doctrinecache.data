@@ -1,0 +1,12 @@
+1688195315
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:13:"home/_contact";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:4:{s:5:"title";s:12:"Contact Form";s:4:"menu";s:7:"Contact";s:4:"lead";s:291:"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.";s:7:"widgets";a:1:{i:0;a:2:{s:5:"title";s:17:"Address and Phone";s:7:"content";a:4:{i:0;a:1:{s:4:"line";s:12:"Jonathan Doe";}i:1;a:1:{s:4:"line";s:25:"1600 Amphitheatre Parkway";}i:2;a:1:{s:4:"line";s:26:"Mountain View, CA 94043 US";}i:3;a:1:{s:4:"line";s:14:"(123) 456-7890";}}}}}s:11:"frontmatter";s:531:"title: Contact Form
+menu: Contact
+lead: Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.
+widgets:
+    - title: Address and Phone
+      content:
+        - line: Jonathan Doe
+        - line: 1600 Amphitheatre Parkway
+        - line: Mountain View, CA 94043 US
+        - line: (123) 456-7890";s:8:"markdown";s:254:"Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
+";}s:7:"storage";a:6:{s:3:"key";s:13:"home/_contact";s:11:"storage_key";s:16:"01.home/_contact";s:8:"template";s:4:"form";s:17:"storage_timestamp";i:1687388483;s:8:"markdown";a:1:{s:0:"";a:1:{s:4:"form";i:1687388483;}}s:8:"checksum";s:32:"87d6c265eac9a00ca1f106db0189489d";}}

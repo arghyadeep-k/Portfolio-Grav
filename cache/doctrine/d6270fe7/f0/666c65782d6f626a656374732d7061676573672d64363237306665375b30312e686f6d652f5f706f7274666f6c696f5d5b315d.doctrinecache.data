@@ -1,0 +1,52 @@
+1688195313
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:15:"home/_portfolio";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:2:{s:5:"title";s:9:"Portfolio";s:9:"portfolio";a:8:{i:0;a:6:{s:5:"title";s:10:"Coffee Cup";s:11:"description";s:12:"Illustration";s:3:"img";s:10:"coffee.jpg";s:7:"content";s:151:"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.";s:4:"tags";s:25:"Branding, Web Development";s:7:"details";s:22:"http://www.behance.net";}i:1;a:6:{s:5:"title";s:7:"Console";s:11:"description";s:15:"Web Development";s:3:"img";s:11:"console.jpg";s:7:"content";s:151:"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.";s:4:"tags";s:25:"Branding, Web Development";s:7:"details";s:22:"http://www.behance.net";}i:2;a:6:{s:5:"title";s:5:"Judah";s:11:"description";s:9:"Webdesign";s:3:"img";s:9:"judah.jpg";s:7:"content";s:151:"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.";s:4:"tags";s:8:"Branding";s:7:"details";s:22:"http://www.behance.net";}i:3;a:6:{s:5:"title";s:14:"Into The Light";s:11:"description";s:11:"Photography";s:3:"img";s:16:"intothelight.jpg";s:7:"content";s:151:"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.";s:4:"tags";s:11:"Photography";s:7:"details";s:22:"http://www.behance.net";}i:4;a:6:{s:5:"title";s:10:"Farmer Boy";s:11:"description";s:8:"Branding";s:3:"img";s:13:"farmerboy.jpg";s:7:"content";s:151:"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.";s:4:"tags";s:19:"Branding, Webdesign";s:7:"details";s:22:"http://www.behance.net";}i:5;a:6:{s:5:"title";s:4:"Girl";s:11:"description";s:11:"Photography";s:3:"img";s:8:"girl.jpg";s:7:"content";s:151:"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.";s:4:"tags";s:11:"Photography";s:7:"details";s:22:"http://www.behance.net";}i:6;a:6:{s:5:"title";s:7:"Origami";s:11:"description";s:12:"Illustration";s:3:"img";s:11:"origami.jpg";s:7:"content";s:151:"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.";s:4:"tags";s:22:"Branding, Illustration";s:7:"details";s:22:"http://www.behance.net";}i:7;a:6:{s:5:"title";s:8:"Retrocam";s:11:"description";s:15:"Web Development";s:3:"img";s:12:"retrocam.jpg";s:7:"content";s:151:"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.";s:4:"tags";s:22:"Webdesign, Photography";s:7:"details";s:22:"http://www.behance.net";}}}s:11:"frontmatter";s:2481:"title: Portfolio
+portfolio:
+  - title: "Coffee Cup"
+    description: Illustration
+    img: coffee.jpg
+    content: "Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit."
+    tags: Branding, Web Development
+    details: http://www.behance.net
+  - title: "Console"
+    description: Web Development
+    img: console.jpg
+    content: "Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit."
+    tags: Branding, Web Development
+    details: http://www.behance.net
+  - title: "Judah"
+    description: Webdesign
+    img: judah.jpg
+    content: "Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit."
+    tags: Branding
+    details: http://www.behance.net
+  - title: "Into The Light"
+    description: Photography
+    img: intothelight.jpg
+    content: "Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit."
+    tags: Photography    
+    details: http://www.behance.net
+  - title: "Farmer Boy"
+    description: Branding
+    img: farmerboy.jpg
+    content: "Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit."
+    tags: Branding, Webdesign   
+    details: http://www.behance.net
+  - title: "Girl"
+    description: Photography
+    img: girl.jpg
+    content: "Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit."
+    tags: Photography
+    details: http://www.behance.net
+  - title: "Origami"
+    description: Illustration
+    img: origami.jpg
+    content: "Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit."
+    tags: Branding, Illustration  
+    details: http://www.behance.net
+  - title: "Retrocam"
+    description: Web Development
+    img: retrocam.jpg
+    content: "Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit."
+    tags: Webdesign, Photography   
+    details: http://www.behance.net   ";s:8:"markdown";s:29:"#Check Out Some of My Works.
+";}s:7:"storage";a:6:{s:3:"key";s:15:"home/_portfolio";s:11:"storage_key";s:18:"01.home/_portfolio";s:8:"template";s:9:"portfolio";s:17:"storage_timestamp";i:1687388483;s:8:"markdown";a:1:{s:0:"";a:1:{s:9:"portfolio";i:1687388483;}}s:8:"checksum";s:32:"856e7d6cb1b7f51367c2f21320fc873c";}}

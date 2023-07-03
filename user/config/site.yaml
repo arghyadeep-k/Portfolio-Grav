@@ -6,8 +6,8 @@ metadata:
 
 # Header customization
 header:
-  title: I'm Arghyadeep Kundu.
-  description: Developer turned DevOps Engineer. Developing CI/CD solutions for a finance company during the day. Fiddling with opensource software at night and during the weekends. Reading books 📖 when taking a break from the screen.I'm a Manila based <span>graphic designer</span>, <span>illustrator</span> and <span>webdesigner</span> creating awesome and effective visual identities for companies of all sizes around the globe. Let's <a class="smoothscroll" href="#about">start scrolling</a> and learn more <a class="smoothscroll" href="#about">about me</a>.
+  title: Arghyadeep Kundu
+  description: <span>DevOps Engineer</span> by profession. <span>Developer</span> at heart. Passionate about self hosting and open source software. Currently based out of <span>Dallas, Texas</span>. <br/><a class="smoothscroll" href="#about">Keep scrolling</a> to learn more.
 copyright:
     - line: &copy; Copyright 2014 CeeVee
     - line: Design by <a title="Styleshout" href="http://www.styleshout.com/">Styleshout</a>
@@ -18,14 +18,14 @@ social:
   icon: twitter
 - url: "#"
   icon: google-plus
-- url: "#"
+- url: "https://www.linkedin.com/in/arghyadeep-kundu/"
   icon: linkedin
 - url: "#"
   icon: instagram
 - url: "#"
   icon: dribbble
 - url: "#"
-  icon: skype
+  icon: mastodon
 
 
 # HOW TO CREATE A VALID ID TO USE:

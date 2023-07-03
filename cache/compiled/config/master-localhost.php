@@ -1,8 +1,8 @@
 <?php
 return [
     '@class' => 'Grav\\Common\\Config\\CompiledConfig',
-    'timestamp' => 1688195274,
-    'checksum' => 'a78adb23e9ad05bb0acc8321cb0a1290',
+    'timestamp' => 1688357902,
+    'checksum' => '4325660013bc91fb4b3e2f3055ebfd9c',
     'files' => [
         'user/config' => [
             'media' => [
@@ -19,7 +19,7 @@ return [
             ],
             'site' => [
                 'file' => 'user/config/site.yaml',
-                'modified' => 1688195207
+                'modified' => 1688357898
             ],
             'system' => [
                 'file' => 'user/config/system.yaml',
@@ -3793,8 +3793,8 @@ node_modules'
                 'route' => '/blog'
             ],
             'header' => [
-                'title' => 'I\'m Arghyadeep Kundu.',
-                'description' => 'Developer turned DevOps Engineer. Developing CI/CD solutions for a finance company during the day. Fiddling with opensource software at night and during the weekends. Reading books 📖 when taking a break from the screen.I\'m a Manila based <span>graphic designer</span>, <span>illustrator</span> and <span>webdesigner</span> creating awesome and effective visual identities for companies of all sizes around the globe. Let\'s <a class="smoothscroll" href="#about">start scrolling</a> and learn more <a class="smoothscroll" href="#about">about me</a>.'
+                'title' => 'Arghyadeep Kundu',
+                'description' => '<span>DevOps Engineer</span> by profession. <span>Developer</span> at heart. Passionate about self hosting and open source software. Currently based out of <span>Dallas, Texas</span>. <br/><a class="smoothscroll" href="#about">Keep scrolling</a> to learn more.'
             ],
             'copyright' => [
                 0 => [
@@ -3818,7 +3818,7 @@ node_modules'
                     'icon' => 'google-plus'
                 ],
                 3 => [
-                    'url' => '#',
+                    'url' => 'https://www.linkedin.com/in/arghyadeep-kundu/',
                     'icon' => 'linkedin'
                 ],
                 4 => [
@@ -3831,7 +3831,7 @@ node_modules'
                 ],
                 6 => [
                     'url' => '#',
-                    'icon' => 'skype'
+                    'icon' => 'mastodon'
                 ]
             ],
             'twitter' => [

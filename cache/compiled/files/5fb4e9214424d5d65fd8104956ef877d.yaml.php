@@ -2,8 +2,8 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/home/arghya/Documents/Code/Portfolio-Grav/user/config/site.yaml',
-    'modified' => 1688195207,
-    'size' => 2007,
+    'modified' => 1688357898,
+    'size' => 1759,
     'data' => [
         'title' => 'Free Responsive HTML5/CSS3 Template',
         'author' => [
@@ -13,8 +13,8 @@ return [
             'description' => 'An exclusive HTML5/CSS3 freebie by Peter Finlan, for Codrops.'
         ],
         'header' => [
-            'title' => 'I\'m Arghyadeep Kundu.',
-            'description' => 'Developer turned DevOps Engineer. Developing CI/CD solutions for a finance company during the day. Fiddling with opensource software at night and during the weekends. Reading books 📖 when taking a break from the screen.I\'m a Manila based <span>graphic designer</span>, <span>illustrator</span> and <span>webdesigner</span> creating awesome and effective visual identities for companies of all sizes around the globe. Let\'s <a class="smoothscroll" href="#about">start scrolling</a> and learn more <a class="smoothscroll" href="#about">about me</a>.'
+            'title' => 'Arghyadeep Kundu',
+            'description' => '<span>DevOps Engineer</span> by profession. <span>Developer</span> at heart. Passionate about self hosting and open source software. Currently based out of <span>Dallas, Texas</span>. <br/><a class="smoothscroll" href="#about">Keep scrolling</a> to learn more.'
         ],
         'copyright' => [
             0 => [
@@ -38,7 +38,7 @@ return [
                 'icon' => 'google-plus'
             ],
             3 => [
-                'url' => '#',
+                'url' => 'https://www.linkedin.com/in/arghyadeep-kundu/',
                 'icon' => 'linkedin'
             ],
             4 => [
@@ -51,7 +51,7 @@ return [
             ],
             6 => [
                 'url' => '#',
-                'icon' => 'skype'
+                'icon' => 'mastodon'
             ]
         ],
         'twitter' => [
